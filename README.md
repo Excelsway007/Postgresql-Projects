@@ -1,4 +1,4 @@
-# Postgresql-Projects
+# Telecom Growth Strategies Through Customer Lifetime Value Segmentation Postgresql-Project
 Telecom Growth Strategies Through Customer Lifetime Value Segmentation
 
 Project Overview
